@@ -1,4 +1,5 @@
 You can simulate high-detail surfaces on low-polygon 3D models using normal maps and height maps! Thanks Jim Blinn :)
+
 By manipulating surface normals per pixel, we can create the illusion of depth, bumps, and fine details without increasing geometric complexity, making real-time rendering more efficient.
 
 Blinn's paper: https://dl.acm.org/doi/10.1145/965139.507101
